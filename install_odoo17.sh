@@ -2,7 +2,7 @@
 
 # Update the system
 echo "Updating the system..."
-sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt-get update -y 
 
 # Install Python and required libraries
 echo "Installing Python and required libraries..."
